@@ -1,3 +1,4 @@
+[LAB 01][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/Lab01_AIML.ipynb]
 [LAB 02][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/Lab02_AIML.ipynb]
 [lab 03][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/Lab03_AIML.ipynb]
 [LAB 04][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/lab%281%29.ipynb]

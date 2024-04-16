@@ -6,3 +6,5 @@
 [LAB 06][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/Lab06_AIML.ipynb]
 [lab 07][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/Lab_7.ipynb]
 [lab 08][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/Lab_08.ipynb]
+[Lab 09][https://github.com/Nagaraju1007/AIML_BATCH_11/blob/main/LAB_09.ipynb]
+
